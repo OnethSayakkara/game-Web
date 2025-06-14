@@ -3,7 +3,7 @@
 ![Macbook Mockup Front View UV](https://github.com/user-attachments/assets/482715e2-708e-4557-85b1-f4c976ba8ee5)
 
 
-This is a visually immersive game-themed website built using **React.js**, **Vite**, **Tailwind CSS**, **GSAP**, and **Three.js**. It recreates the luxurious, animation-rich style of award-winning experiences like [Zentry](https://zentry.co/) with scroll-triggered effects, video transitions, and 3D interactions.
+This is a visually immersive game-themed website built using **React.js**, **Vite**, **Tailwind CSS**, **GSAP**, and **Three.js**. It recreates the luxurious, animation-rich style of award-winning experiences like [Zentry](https://zentry.com/) with scroll-triggered effects, video transitions, and 3D interactions.
 
 > ⚠️ **Disclaimer**:  
 > All design credits go to **Zentry**.  
